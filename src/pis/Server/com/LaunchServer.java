@@ -270,7 +270,7 @@ public class LaunchServer implements Ausgabe
 
 /**
  * Die Klasse fromClient ist dafuer zustaendig , alle vom Client geschickte Nachrichten zu verarbeiten.
- * @author bautrelle fotso
+ * @author Doriane Koudjou
  * Alle diese Inputs werden von einem Thread verwaltet . Deswegen implementiert diese Klasse die Runnable Schnittstelle.
  * 
  * Bei einem CON vom Client geschickt , wird der Server falls es weniger als 3 Clients online sind die Verbindung bestaetigen

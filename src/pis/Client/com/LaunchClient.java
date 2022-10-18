@@ -32,7 +32,7 @@ import pis.global.com.Ausgabe;
 import pis.global.com.Instruction;
 /**
  * 
- * @author bautrelle fotso
+ * @author Doriane Koudjou
  * Die Klasse ist ein Multithread Client die mit verschiedenen Server kommuniziert.
  * Es implementiert die Schnittstelle Ausgabe.
  *
